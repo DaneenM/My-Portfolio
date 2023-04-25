@@ -587,6 +587,19 @@ button#pills-contact-tab {
   padding: 10px; /* add padding to the text to create some space */
 }
 
+.proj-bx {
+  position: relative;
+  height: 350px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
 .fancybox-image {
   height: auto !important;
 }
