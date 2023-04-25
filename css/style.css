@@ -521,6 +521,11 @@ button#pills-contact-tab {
   font-size: 15px;
   letter-spacing: 0.8px;
 }
+.proj-imgbx img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
 .sdf2 {
   top: 20%;
   position: absolute;
