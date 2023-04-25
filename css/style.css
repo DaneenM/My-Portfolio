@@ -521,10 +521,18 @@ button#pills-contact-tab {
   font-size: 15px;
   letter-spacing: 0.8px;
 }
-.proj-imgbx img {
-  display: block;
+.proj-imgbx {
+  position: relative;
+  border-radius: 30px;
+  overflow: hidden;
+  margin-bottom: 24px;
   width: 100%;
-  height: auto;
+  height: 0;
+  padding-bottom: 75%; /* adjust this value to match the aspect ratio of your images */
+}
+
+.fancybox-image {
+  height: auto !important;
 }
 .sdf2 {
   top: 20%;
