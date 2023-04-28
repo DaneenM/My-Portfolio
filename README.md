@@ -48,6 +48,6 @@ This project is licensed under the MIT License. See the LICENSE.md file for deta
 
 ## Contact
 
-If you have any questions or would like to get in touch, please feel free to contact me using the form in the Contact section of the website or by emailing me at daneenm@gmail.com.
+If you have any questions or would like to get in touch, please feel free to contact me using the form in the Contact section of the website or by emailing me at mays.d87@gmail.com.
 
 Thank you for visiting my portfolio!
